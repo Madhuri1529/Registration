@@ -1,3 +1,4 @@
+package com.data;
 
 public class Customer {
 	
